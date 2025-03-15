@@ -1,0 +1,21 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background: linear-gradient(0.25turn, #0e012d, #010744);
+}
+h1{
+    color: #fffffb;
+    font-size: 35px;
+    margin: 20px 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic ;
+    text-decoration: underline ;
+}
+#board{
+    background-color: rgb(206, 74, 96);
+    border: 3px solid rgb(85, 173, 214);
+    display: inline-block;
+    border-radius: 1%;
+    
+    margin: 0 auto;
+}
