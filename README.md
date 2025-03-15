@@ -20,7 +20,7 @@ A simple JavaScript-based running dinosaur game where the player must avoid obst
 ## 🚀 Installation
 1. Clone the repository or download the files:
    ```bash
-   git clone https://github.com/your-username/dino-game.git
+   git clone https://github.com/anishamajumder2005/dino-game.git
    ```
 2. Navigate to the project folder:
    ```bash
