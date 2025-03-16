@@ -1,5 +1,6 @@
 # dino-game
 # 🦖 Dino Game
+# Play dino game here : https://anishamajumder2005.github.io/dino-game/
 A simple JavaScript-based running dinosaur game where the player must avoid obstacles (cacti and birds) while scoring points. The game features jump and duck mechanics, a reset button, and background music for an immersive experience.
 
 ## 🎮 How to Play
